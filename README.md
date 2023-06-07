@@ -1,3 +1,2 @@
-# Blog project
-A small blog, using react, nestjs and mongo.
-Learning project to create my first full stack application.
+# Miniblog
+A simple blog web application using React , NestJS, and MongoDB. The application includes authentication functionality implemented through Auth0.
